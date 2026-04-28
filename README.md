@@ -47,10 +47,10 @@ The project follows a structured fairness evaluation pipeline:
 ![Age vs Pass](images/Age_Pass.png)
 
 #### Gender vs High Performance
-![Gender vs High](images/Gender_HighPerformance.png)
+![Gender vs High Performance](images/Gender_HighPerformance.png)
 
 #### Age vs High Performance
-![Age vs High](images/Age_HighPerformance.png)
+![Age vs High Performance](images/Age_HighPerformance.png)
 
 ---
 
