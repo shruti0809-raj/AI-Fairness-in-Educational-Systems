@@ -83,9 +83,3 @@ The project follows a structured fairness evaluation pipeline:
 
 Jupyter Notebook:  
 [View Notebook](./notebook.ipynb)
-
----
-
-## Direction
-
-This project is part of a broader exploration into **AI safety and fairness in real-world systems**, focusing on how technical definitions of fairness translate into practical and policy-relevant outcomes.
